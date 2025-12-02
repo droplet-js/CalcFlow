@@ -1,0 +1,5 @@
+{
+  "name": "CalcFlow - Modular Calculator Engine",
+  "description": "A config-driven, multi-language calculator platform featuring a modern UI and real-time computation.",
+  "requestFramePermissions": []
+}
